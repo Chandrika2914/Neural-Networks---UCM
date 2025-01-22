@@ -1,18 +1,14 @@
-# First-Task Overview
+# Second-Task Overview
 
 ## Developer Information
 **Full Name:** Chandrika Patibandla  
 **University Code:** 700777118
   
 ## About This Task
-This task is divided into three simple tasks. Each task shows how to use Python for different purposes. Here is what each task does:
+This task is separated into two sub tasks. Each task shows how to utilize Python for object-oriented programming and numerical computations. Each task does the following:
 
-### Task 1: Working with Strings
-- This task is about working with strings. It mainly focuses on combining strings (concatenation) and cutting them into parts (slicing) to create the sequence you want.
+### Task 1: Class Programming
+- It incorporates the creation of an employee class in which the attributes, methods and inheritance are defined, and further, it demonstrates the principles of object-oriented programming. This is about calculating the averages of salaries and controlling the number of employees by using class variables.
 
-### Task 2: File Handling
-- This task focuses on working with files, such as reading from and writing to them, and counting words
-
-### Task 3: Converting Measurements
-- This task shows how to convert inches to centimeters (1 inch = 2.54 cm) using two methods: a Nested Interactive loop and list comprehension
-
+### Task 2: Numpy
+- For this task, the maximum values along each row of arrays are replaced with zeros, and arrays are reshaped to 4 by 5  dimensions using the Numpy library.
